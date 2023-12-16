@@ -1,0 +1,135 @@
+body, html{padding:0;margin:0;}
+.glavnaya {
+	width: 1479px;
+	max-width: 100%;
+	height: 2969px;
+	background: #99939E;
+	margin: auto;
+}
+.top_menu {
+	max-width: 100%;
+	height: 29px;
+	background: #1B2261;
+	color: #ffffff;
+	font-size: 24px;
+	padding: 20px 30px;
+}
+.top_menu p {
+	position: relative;
+	display: block;
+	float: right;
+	margin: 0 30px;
+}
+.zagolovok {
+	font-size: 64px;
+	color: #000000;
+	margin: 2% 36%;
+}
+.zagolovok p {
+	margin: 0;
+}
+.info {
+	max-width: 100%;
+	color: #000000;
+	font-size: 32px;
+	margin: 0 4%;
+}
+.info svg {
+	position: relative;
+	display: block;
+	float: left;
+	margin: 0 5% 0 0;
+}
+.info p {
+	margin: 3%;
+}
+.karusel-box {
+	max-width: 100%;
+	height: 620px;
+	
+}
+.karusel {
+	width: 1170px;
+	height: 480px;
+	background: rgba(255, 255, 255, 0.7);
+	border-radius: 20px;
+	margin: 9% 10.5%;
+}
+.email {
+	max-width: 100%;
+	height: 200px;
+	background: #1B2261;
+	color: #FF5784;
+	font-size: 36px;
+	padding: 3% 16%;
+}
+.email p {
+	margin: 0;
+}
+.test_box {
+	max-width: 100%;
+	height: 600px;
+	margin: 0 10%;
+}
+.test {
+	width: 366px;
+	height: 454px;
+	background: #1B2261;
+	color: #ffffff;
+	border-radius: 20px;
+	position: relative;
+	display: block;
+	float: left;
+	margin: 6% 1%;
+}
+.test_button {
+	width: 124px;
+	height: 52px;
+	background: #FF5784;
+	border-radius: 40px;
+	color: #ffffff;
+	font-size: 40px;
+	margin: auto;
+	padding: 10px 40px;
+}
+.test_button p {
+	margin: 0;
+}
+.test svg {
+	margin: 50px 65px;
+}
+.instrucsiya {
+	max-width: 100%;
+	height: 430px;
+	background: #FF5784;
+	color: #ffffff;
+	font-size: 30px;
+	padding: 60px 90px;
+}
+.contacts {
+	max-width: 100%;
+	height: 200px;
+	background: #1B2261;
+	color: #ffffff;
+	font-size: 24px;
+	padding: 10px 70px;
+}
+.contacts h3 {
+	margin: 20px 0;
+}
+.bottom-block-1 {
+	position: relative;
+	display: block;
+	float: left;
+}
+.bottom-block-2 {
+	position: relative;
+	display: block;
+	float: right;
+	margin: 20px 0;
+}
+.bottom-block-2 a {
+	color: #ffffff;
+	margin: 0;
+	font-size: 30px;
+}

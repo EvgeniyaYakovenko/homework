@@ -1,0 +1,70 @@
+body, html{padding:0;margin:0;}
+.main {
+	width: 1479px;
+	max-width: 100%;
+	height: 2500px;
+	background: #99939E;
+	margin: auto;
+}
+.top_menu {
+	max-width: 100%;
+	height: 29px;
+	background: #1B2261;
+	color: #ffffff;
+	font-size: 24px;
+	padding: 20px 30px;
+}
+.top_menu p {
+	position: relative;
+	display: block;
+	float: right;
+	margin: 0 30px;
+}
+.zagolovok {
+	font-size: 64px;
+	color: #ffffff;
+	text-align: center;
+}
+.cheburec {
+	max-width: 100%;
+	height: 350px;
+	padding: 0 7%;
+	background: #1B2261;
+	border-radius: 30px;
+	color: #FFFFFF;
+	font-size: 32px;
+	margin: 10%;
+}
+.cheburec-text, .cheburec img {
+	position: relative;
+	display: block;
+	float: left;
+	margin: 23px 15px;
+}
+.contacts {
+	max-width: 100%;
+	height: 200px;
+	background: #1B2261;
+	color: #ffffff;
+	font-size: 24px;
+	padding: 10px 70px;
+}
+.contacts h3 {
+	margin: 20px 0;
+}
+.bottom-block-1 {
+	position: relative;
+	display: block;
+	float: left;
+}
+.bottom-block-2 {
+	position: relative;
+	display: block;
+	float: right;
+	margin: 20px 0;
+}
+.bottom-block-2 a {
+	color: #ffffff;
+	margin: 0;
+	font-size: 30px;
+}
